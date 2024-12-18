@@ -52,7 +52,7 @@ Perintah untuk menghapus file atau direktori secara permanen dalam sebuah direkt
  rm file file 1
 ```
 ```
- rm -rf (mengizinkan penghapusan file/direktori tanpa konfirmasi secara rekursif)
+ rm -rf (remove force mengizinkan penghapusan file/direktori tanpa konfirmasi secara rekursif)
 ```
 #### 7. cp
 Perintah untuk menyalin satu atau lebih file ke lokasi lain termasuk isinya.
@@ -181,23 +181,31 @@ chmod -rwxrwxrwx file.txt
 chmod 744 direktori/
 ```
 Menentukan letak user yang dimaksud :
-Pemilik (Owner) kiri -rwx
-Kelompok (Group) tengah rwx
-Lainnya (Others) kanan rwx
+- Pemilik (Owner) kiri -rwx
+- Kelompok (Group) tengah rwx
+- Lainnya (Others) kanan rwx
 Setiap user dapat melakukan 3 bentuk operasi yaitu :
 Pada File/Direktori
-r (Read) Ijin untuk membaca (4)
-Ijin untuk membaca daftar file dalam direktori
-w (Write) Ijin untuk mengubah / membuat (2)
-Ijin untuk mengubah/membuat file di direktori
-x (Execute) Ijin untuk menjalankan program (1)
-Ijin untuk masuk ke direktori (cd)
+| r (Read) Ijin untuk membaca (4) |
+| Ijin untuk membaca daftar file dalam direktori |
+| w (Write) Ijin untuk mengubah / membuat (2) |
+| Ijin untuk mengubah/membuat file di direktori |
+| x (Execute) Ijin untuk menjalankan program (1) |
+| Ijin untuk masuk ke direktori (cd) |
 Jika angka notasi dijumlahkan akan memberikan akses penuh suatu user dan saran keamanan jangan memberikan sembarang akses ke group dan others.
 
 #### IP Private
-Ruang lingkup lokal; Didapatkan secara gratis; Tidak bisa terhubung ke internet secara keseluruhan; Setiap nomor IP tidak unik dan bisa digunakan berulang dengan jaringan lokal lain; Lebih aman karena hanya tersedia pada jaringan lokal.
+- Ruang lingkup lokal
+- Didapatkan secara gratis
+- Tidak bisa terhubung ke internet secara keseluruhan
+- Setiap nomor IP tidak unik dan bisa digunakan berulang dengan jaringan lokal lain
+- Lebih aman karena hanya tersedia pada jaringan lokal.
 #### IP Public
-Ruang lingkup global; Tidak gratis; Bisa terhubung ke internet secara keseluruhan; Setiap nomor IP unik dan tak bisa digunakan oleh pihak lain; Kurang aman karena dapat dilihat secara online; Tidak membutuhkan network translation apapun untuk terhubung ke internet.
+- Ruang lingkup global
+- Tidak gratis; Bisa terhubung ke internet secara keseluruhan
+- Setiap nomor IP unik dan tak bisa digunakan oleh pihak lain
+- Kurang aman karena dapat dilihat secara online
+- Tidak membutuhkan network translation apapun untuk terhubung ke internet.
 
 #### IP Dynamic
 Alamat ip yang berubah-ubah, apabila berhenti dan dijalankan kembali pasti akan berubah atau berganti terus menerus. Kegunaan biasanya digunakan untuk ip rumahan atau kantoran.

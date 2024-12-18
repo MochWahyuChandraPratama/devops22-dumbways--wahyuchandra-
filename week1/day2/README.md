@@ -186,12 +186,12 @@ Menentukan letak user yang dimaksud :
 - Lainnya (Others) kanan rwx
 Setiap user dapat melakukan 3 bentuk operasi yaitu :
 Pada File/Direktori
-| r (Read) Ijin untuk membaca (4) |
-| Ijin untuk membaca daftar file dalam direktori |
-| w (Write) Ijin untuk mengubah / membuat (2) |
-| Ijin untuk mengubah/membuat file di direktori |
-| x (Execute) Ijin untuk menjalankan program (1) |
-| Ijin untuk masuk ke direktori (cd) |
+| r (Read) | Ijin untuk membaca (4) |
+| -- ~ -- | Ijin untuk membaca daftar file dalam direktori |
+| w (Write) | Ijin untuk mengubah / membuat (2) |
+| -- ~ -- | Ijin untuk mengubah/membuat file di direktori |
+| x (Execute) | Ijin untuk menjalankan program (1) |
+| -- ~ -- | Ijin untuk masuk ke direktori (cd) |
 Jika angka notasi dijumlahkan akan memberikan akses penuh suatu user dan saran keamanan jangan memberikan sembarang akses ke group dan others.
 
 #### IP Private

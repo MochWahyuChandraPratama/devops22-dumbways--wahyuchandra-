@@ -92,23 +92,23 @@ Anda bekerja di sebuah tim data analis untuk sebuah situs web yang menampilkan d
 ## Create
 Bash Script untuk melakukan installasi webserver, dengan kebutuhan case: jika user menginputkan nomor 1 maka dia akan melakukan installasi WebServer Nginx dan jika user menginputkan nomor 2 maka akan melakukan installasi WebServer Apache2
 - Membuat File instal-nginxorapache.sh
-  ![Screenshot from 2024-12-23 04-22-50](https://github.com/user-attachments/assets/492378ca-1751-48cc-b54e-916e0cfeec07)
+![Screenshot from 2024-12-23 04-22-50](https://github.com/user-attachments/assets/492378ca-1751-48cc-b54e-916e0cfeec07)
 - Masuk ke superuser untuk ijin akses
-  ![Screenshot from 2024-12-23 03-48-52](https://github.com/user-attachments/assets/2a5e3c7d-d798-4a1b-86c6-063276e1ff9f)
+![Screenshot from 2024-12-23 03-48-52](https://github.com/user-attachments/assets/2a5e3c7d-d798-4a1b-86c6-063276e1ff9f)
 - Menjalankan scripts
- ![Screenshot from 2024-12-23 04-22-11](https://github.com/user-attachments/assets/3ee9bad8-e4bd-4efd-9d49-c775384c60be)
+![Screenshot from 2024-12-23 04-22-11](https://github.com/user-attachments/assets/3ee9bad8-e4bd-4efd-9d49-c775384c60be)
 ## Implementasi Firewall pada linux server 
 - Buatlah 2 buah Virtual Machine. 
 - Study case nya adalah agar hanya server A yang hanya dapat mengakses WebServer yang ada pada server B.
 - Carilah cara agar UFW dapat memblokir ataupun mengizinkan specific protocol jaringan seperti TCP dan UDP.
 - Jelaskan perbedaan protocol Jaringan TCP serta UDP.
 #### Study case
-- Aktifkan ufw
+##### Aktifkan ufw
 ![Screenshot from 2024-12-23 04-54-56](https://github.com/user-attachments/assets/1ac0eb70-3b26-408a-b0b6-537d2ff98cf9)
 ![Screenshot from 2024-12-23 04-55-02](https://github.com/user-attachments/assets/e5915f07-4d4b-4aac-914b-f314db73f970)
-- Pada server B, buat firewall hanya server A yang dapat akses webserver
+##### Pada server B, buat firewall hanya server A yang dapat akses webserver
 ![Screenshot from 2024-12-23 05-12-18](https://github.com/user-attachments/assets/75038103-3794-4ee2-a29c-30772b6d0b05)
-- Block TCP dan UDP
+##### Block TCP dan UDP
 ![Screenshot from 2024-12-23 05-16-35](https://github.com/user-attachments/assets/81142f97-6fc2-48c6-977d-ec8fbddbc348)
 #### Perbedaan TCP serta UDP
 1. TCP menciptakan jalur komunikasi yang aman untuk memastikan transmisi semua data yang andal. Setelah pesan dikirim, tanda terima diverifikasi untuk memastikan semua data telah ditransfer.

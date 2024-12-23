@@ -18,5 +18,10 @@
 ![Screenshot from 2024-12-23 09-38-29](https://github.com/user-attachments/assets/d340340b-3723-46a7-ba2b-2bad7c92f30f)
 ![Screenshot from 2024-12-23 09-48-20](https://github.com/user-attachments/assets/0771e518-c736-43f8-9117-5ecf38854c1c)
 #### Python
+![Screenshot from 2024-12-23 14-03-26](https://github.com/user-attachments/assets/3aa868bf-b796-410f-b4f3-7c661751ec0f)
+![Screenshot from 2024-12-23 14-04-26](https://github.com/user-attachments/assets/bb01848f-ea32-4048-8472-435ad0855393)
+![Screenshot from 2024-12-23 14-05-24](https://github.com/user-attachments/assets/06463ca2-fc08-4984-9d16-5303e2bc8743)
+
+![Screenshot from 2024-12-23 10-02-08](https://github.com/user-attachments/assets/db6f9f38-c31e-4eb7-b9c4-141797e099f9)
 
 #### Aplikasi dumbflix node version 14

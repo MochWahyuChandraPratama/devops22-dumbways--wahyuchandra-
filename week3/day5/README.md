@@ -3,7 +3,7 @@
 - Secara keseluruhan, arsitektur microservices lebih kompleks dibandingkan arsitektur monolitik, tetapi memberikan fleksibilitas dan skalabilitas yang lebih baik dalam pengembangan dan deployment aplikasi.
 - Arsitektur monolitik menempatkan semua komponen aplikasi dalam satu proyek atau satu kontainer. Ini membuat aplikasi lebih sederhana dan mudah diatur, serta memudahkan proses pengembangan dan deployment. Namun, karena semua komponen aplikasi terpisah dalam satu unit yang sederhana, ini dapat menyebabkan masalah skalabilitas dan fleksibilitas dalam jangka panjang.
 - Arsitektur microservices, di sisi lain, memisahkan aplikasi menjadi beberapa komponen yang independen yang dapat di-deploy dan diubah tanpa mempengaruhi komponen lainnya. Ini memungkinkan para pengembang untuk mengelola dan mem-deploy setiap microservice secara independen, serta mengelola skala dan performa setiap microservice dengan lebih baik. Namun, karena aplikasi dibagi menjadi beberapa microservices yang independen, ini dapat menjadi lebih kompleks dan rumit untuk dikembangkan dan di-deploy dibandingkan arsitektur monolitik.
-- Dalam memutuskan antara arsitektur monolitik dan microservices, perusahaan harus mempertimbangkan berbagai faktor seperti ukuran tim, kompleksitas aplikasi, skalabilitas yang dibutuhkan, adaptasi teknologi jangka panjang, kebutuhan untuk mengubah komponen aplikasi secara independen dan lain sebagainya.
+
 ## Deploy Simple App NodeJS, Golang, dan Python
 #### NodeJS
 ![Screenshot from 2024-12-23 06-58-42](https://github.com/user-attachments/assets/ad5d6c0b-3986-4d42-91af-a61f1dcb453c)
@@ -39,3 +39,12 @@
 ![Screenshot from 2024-12-23 14-24-14](https://github.com/user-attachments/assets/6b16b652-3597-41a7-bbe8-e2622fcc28f2)
 ![Screenshot from 2024-12-23 14-29-22](https://github.com/user-attachments/assets/77db7223-3395-4d99-bf4a-046d15b9f703)
 #### pm2
+![Screenshot from 2024-12-23 20-11-57](https://github.com/user-attachments/assets/81908f91-9257-4e22-9953-e8f8bde21199)
+#### nodejs
+![Screenshot from 2024-12-23 20-14-11](https://github.com/user-attachments/assets/60e383ba-4a77-4500-8387-eb59a7d0352b)
+#### python
+![Screenshot from 2024-12-23 20-27-53](https://github.com/user-attachments/assets/a23b1752-bcb2-4dfa-a741-e4f74b1da207)
+![Screenshot from 2024-12-23 20-31-18](https://github.com/user-attachments/assets/dc2fa68f-3de5-430d-b000-a027845aec66)
+#### dumbflix
+![Screenshot from 2024-12-23 20-37-19](https://github.com/user-attachments/assets/c16f51d7-a3eb-4ba3-a837-a2d715202dff)
+![Screenshot from 2024-12-24 06-42-05](https://github.com/user-attachments/assets/220bdc67-e9cc-4bde-b86a-471574613bab)

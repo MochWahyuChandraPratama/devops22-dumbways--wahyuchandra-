@@ -12,3 +12,11 @@
 ![Screenshot from 2024-12-23 08-19-23](https://github.com/user-attachments/assets/6a86ce3d-36ec-4627-b5fa-ff651f25b916)
 ![Screenshot from 2024-12-23 08-18-57](https://github.com/user-attachments/assets/1a206a80-eee2-4f59-879e-1d742679b429)
 ![Screenshot from 2024-12-23 08-17-10](https://github.com/user-attachments/assets/872a5b3f-7896-463b-b832-772712c001bc)
+#### Golang
+![Screenshot from 2024-12-23 08-54-54](https://github.com/user-attachments/assets/7c0764aa-6b1d-466e-abb9-69badc856da7)
+![Screenshot from 2024-12-23 09-39-50](https://github.com/user-attachments/assets/8756c008-74a5-48e5-9e3c-6e6e2954c49a)
+![Screenshot from 2024-12-23 09-38-29](https://github.com/user-attachments/assets/d340340b-3723-46a7-ba2b-2bad7c92f30f)
+![Screenshot from 2024-12-23 09-48-20](https://github.com/user-attachments/assets/0771e518-c736-43f8-9117-5ecf38854c1c)
+#### Python
+
+#### Aplikasi dumbflix node version 14

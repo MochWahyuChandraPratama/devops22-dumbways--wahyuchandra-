@@ -6,6 +6,9 @@
 
 ## Deploy Simple App NodeJS, Golang, dan Python
 #### NodeJS
+![Screenshot from 2024-12-23 14-22-09](https://github.com/user-attachments/assets/a87246fc-e2ff-4acb-9f18-aa69915c0da3)
+![Screenshot from 2024-12-24 09-46-16](https://github.com/user-attachments/assets/d8786630-cf18-4f48-930e-5a755c594e52)
+
 ![Screenshot from 2024-12-23 06-58-42](https://github.com/user-attachments/assets/ad5d6c0b-3986-4d42-91af-a61f1dcb453c)
 ![Screenshot from 2024-12-23 07-16-29](https://github.com/user-attachments/assets/a158c2fa-df05-4fb1-8adf-60cad3952703)
 ![Screenshot from 2024-12-23 07-39-09](https://github.com/user-attachments/assets/3ea85836-bdb0-435e-877f-23286b040b23)
